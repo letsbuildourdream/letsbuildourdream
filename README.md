@@ -1,4 +1,5 @@
-![1_yw0TnheAGN-LPneDaTlaxw](https://github.com/user-attachments/assets/153d694c-65ed-484e-8489-b45bc09d3555)
+![Uploading javascript_anim.gif…]()
+
 - 👋 Hi, I’m @letsbuildourdream
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
