@@ -1,6 +1,8 @@
 ![Uploading javascript_anim.gif…](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
                                                  Hi 👋, I'm Santosh Basnet
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Santosh+Basnet+👨🏻‍💻;" />
+</h1>
 # 💫 About Me:
 👯 I’m currently working on: Building a MERN stack learning management system for Hamra Academy.<br>🤝 I’m looking to collaborate on: Full-stack web applications, open-source projects, and tech innovations.<br>🌱 I’m currently learning: Advanced JavaScript, cloud integration, and AI-driven development.<br>💬 Ask me about: Full-stack development, MERN, software engineering, and tech entrepreneurship.<br>⚡ Fun fact: I’m a health & skin consultant, blending tech with wellness!
 
